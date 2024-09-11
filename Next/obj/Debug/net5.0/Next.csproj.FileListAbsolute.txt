@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.AssemblyInfo.cs
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\bin\Debug\net5.0\Next.exe
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\bin\Debug\net5.0\Next.deps.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\bin\Debug\net5.0\Next.runtimeconfig.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\bin\Debug\net5.0\Next.runtimeconfig.dev.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\bin\Debug\net5.0\Next.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\bin\Debug\net5.0\Next.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\refint\Next.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\Next.genruntimeconfig.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Next\obj\Debug\net5.0\ref\Next.dll
